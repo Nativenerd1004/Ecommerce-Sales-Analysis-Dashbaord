@@ -41,5 +41,15 @@ Examine the evolution of revenue generated over time through visualizations.
 Highlight the top 10 countries in revenue generation and highest order quantity.
 
 
+## Data Sources
+The data for this project was provided by the e-commerce company. To ensure accuracy and relevance, data was gathered bit by bit from company representatives, and a thorough data cleaning process was undertaken before commencing the dashboard development.
+
+## Data Preprocessing
+The data cleaning process involved addressing inconsistencies, missing values, and outliers. Data gathering was a collaborative effort with the company representatives to ensure completeness and accuracy.
+
+## Evaluation Metrics
+The success of the project will be measured by the accuracy and depth of insights derived from the dashboard. Key metrics include the precision of gender distribution analysis, accuracy in revenue calculations, and effectiveness in identifying top-performing products, location etc.
+
+
 
 
