@@ -4,10 +4,11 @@
 
 
 
-![wired-lineal-955-demand](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/45ea4dc5-a30a-434f-b000-a60dacf1148d)
+![wired-lineal-153-bar-chart](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/e3c4b09a-97f0-48ee-aae4-9f8bafd9f848)
 
 
-Table of Content 
+
+## Table of Content 
 - [Project Overview](project-overview)
 - [Project Objectives](project-objectives)
 - [Data Sources](data-sources)
