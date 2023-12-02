@@ -19,6 +19,7 @@ Table of Content
 The e-commerce performance dashboard aims to provide any ECommerce website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
 
 
+
 ![Salesdashboard 2023-12-02 at 3 53 41 AM](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/88709500-389b-42ab-81fa-945b03948cbd)
 
 
