@@ -66,6 +66,14 @@ Develop strategies to capitalize on identified revenue trends over time.
 Consider expanding business operations in countries identified as top performers in revenue generation.
 
 # STAR Approach
+For better understanding to a layman, I used the STAR approach of analyzing projects from start to finish. 
+
+## Project Overview
+- **Situation:** Sterling E-Commerce sought insights into their business performance and efficiency through a comprehensive e-commerce dashboard.
+- **Task:** Develop a data-driven dashboard focusing on key metrics, including customer distribution, revenue generation, product performance, and trends over time.
+- **Action:** Leveraging data provided by the company, data was gathered incrementally from representatives and cleaned extensively before dashboard development.
+- **Result:** The e-commerce performance dashboard aims to enhance operational efficiency and support informed decision-making.
+
 
 
 
