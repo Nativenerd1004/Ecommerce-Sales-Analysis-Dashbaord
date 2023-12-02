@@ -74,6 +74,13 @@ For better understanding to a layman, I used the STAR approach of analyzing proj
 - **Action:** Leveraging data provided by the company, data was gathered incrementally from representatives and cleaned extensively before dashboard development.
 - **Result:** The e-commerce performance dashboard aims to enhance operational efficiency and support informed decision-making.
 
+## Project Objectives
+- **Situation:** The ECommerce desired specific insights, including their customer distribution, revenue overview, product performance, payment method analysis, revenue trends, and geographical analysis.
+- **Task:** I defined and achieved the objectives through gender distribution analysis, revenue calculation accuracy, and identification of top-performing products. etc
+- **Action:** I collaboratively gathered accurate data bit by bit, cleaned the data thoroughly, and developed actionable insights.
+- **Result:** The objectives guided the project to deliver precise gender distribution, revenue insights, and product recommendations.
+
+
 
 
 
