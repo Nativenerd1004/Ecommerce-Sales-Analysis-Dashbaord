@@ -29,6 +29,9 @@ The e-commerce performance dashboard aims to provide any ECommerce website with 
 
 ## Project Objectives
 
+![wired-lineal-134-target](https://github.com/Nativenerd1004/Ecommerce-Sales-Analysis-Dashbaord/assets/149740069/7350aa40-98b6-487b-ac73-9365438da23f)
+
+
 ### Customer Distribution Analysis:
 Utilize gender data to analyze and understand the distribution of customers across different genders.
 ### Revenue Overview:
