@@ -15,6 +15,6 @@ Table of Content
 - [Conclusion](conclusion)
 - [STAR Approach](star-approach)
 
-
-
+## Project Overview
+The e-commerce performance dashboard aims to provide any ECommerce website with comprehensive insights into their business, focusing on key metrics such as customer distribution, revenue generation, product performance, and trends over time. Leveraging the power of data visualization, the dashboard is designed to enhance efficiency and support data-driven decision-making
 
