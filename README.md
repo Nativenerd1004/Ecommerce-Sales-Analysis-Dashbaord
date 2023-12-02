@@ -12,7 +12,8 @@ Table of Content
 - [Evaluation Metrics](evaluation-metrics)
 - [Actionable Insights](project-overview)
 - [Project Overview](project-overview)
-- [Project Overview](project-overview)
+- [Conclusion](conclusion)
+- [STAR Approach](star-approach)
 
 
 
